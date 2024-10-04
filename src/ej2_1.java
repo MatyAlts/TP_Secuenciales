@@ -8,10 +8,10 @@ ejercicio.
 
 import java.util.Scanner;
 public class ej2_1 {
-    static double met_correr = 8.3;
-    static double met_nadar = 7.0;
-    static double met_andar = 3.8;
-    static double met_bicicleta = 7.5;
+    static final double met_correr = 8.3;
+    static final double met_nadar = 7.0;
+    static final double met_andar = 3.8;
+    static final double met_bicicleta = 7.5;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Ingrese su peso en kg: ");
