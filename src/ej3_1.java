@@ -7,7 +7,7 @@ duraciones.
 
 import java.util.Scanner;
 
-public class ej3 {
+public class ej3_1 {
     static String principiante = """
             Sentadillas: 3 series de 10 repeticiones.
             Flexiones de brazos: 3 series de 10 repeticiones (puedes hacerlas de rodillas si es necesario).

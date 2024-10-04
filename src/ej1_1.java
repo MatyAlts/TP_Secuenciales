@@ -7,7 +7,7 @@ imprima su signo del zodiaco y un mensaje de horóscopo correspondiente.
 
 import java.util.Scanner;
 
-public class ej1 {
+public class ej1_1 {
     static String Aries = ("Por fin encontrará el camino para cambiar su estilo de vida, lo que le hará sentir maravillosamente en todo lo que emprenda. No tenga miedo y hágalo.");
     static String Tauro = ("Prepárese, ya que su vida social tomará un giro positivo con la llegada de nuevos compromisos. Su entusiasmo se potenciará al máximo, así que aprovéchelo al máximo.");
     static String Geminis = ("Transitará un día un tanto complicado, ya que podrían surgir cambios que no estaban contemplados en sus responsabilidades. No se desespere, actúe con cautela y calma.");

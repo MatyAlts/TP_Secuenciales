@@ -6,7 +6,7 @@ genere una lista de reproducción con canciones sugeridas para ese estado de án
 
 import java.util.Scanner;
 
-public class ej4 {
+public class ej4_1 {
     static String Feliz = """
             Playlist recomendada para su estado de animo:
             

@@ -7,7 +7,7 @@ ejercicio.
  */
 
 import java.util.Scanner;
-public class ej2 {
+public class ej2_1 {
     static double met_correr = 8.3;
     static double met_nadar = 7.0;
     static double met_andar = 3.8;

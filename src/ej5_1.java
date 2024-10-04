@@ -7,7 +7,7 @@ calcule e imprima el costo total del viaje.
 
 import java.util.Scanner;
 
-public class ej5 {
+public class ej5_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese la distancia del viaje en kilometros: ");

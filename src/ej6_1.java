@@ -7,7 +7,7 @@ plan de estudio semanal distribuyendo esas horas en diferentes materias.
 
 import java.util.Scanner;
 
-public class ej6 {
+public class ej6_1 {
     static String principiante = """
             Objetivo: Familiarizarte con los conceptos básicos de programación.
             

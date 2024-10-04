@@ -7,7 +7,7 @@ vida, nivel de estrés, nivel de salud, etc.) en una escala del 1 al 10 y luego 
 
 import java.util.Scanner;
 
-public class ej7 {
+public class ej7_1 {
 
     static double w1 = 0.4; //Satisfaccion con la vida
     static double w2 = 0.2; //Estrés
